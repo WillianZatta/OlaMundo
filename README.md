@@ -1,2 +1,3 @@
 # OlaMundo
- video aula 1
+ 
+ Curso de Git e GitHub desenvolvido por Gustavo Guanabara
